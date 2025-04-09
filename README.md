@@ -31,6 +31,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 🚀 How to Use
 Add your black & white images into the Input_images/ folder.
-
+### How to Use
+Add your black & white images into the Input_images/ folder
 Run the script to colorize:
 python "BW to color.py"
+Find the colorized images inside the Result_images/ folder
+
+
