@@ -15,3 +15,22 @@ This project uses **OpenCV** and a pre-trained **Caffe model** to automatically 
 
 ## 📂 Project Structure
 
+Installation
+# 1. Clone the repo
+git clone https://github.com/YameenShaikh07/BW-to-Coloriez-AI.git
+cd BW-to-Coloriez-AI
+
+# 2. (Optional) Create virtual environment
+python -m venv venv
+# For Windows:
+venv\Scripts\activate
+# For macOS/Linux:
+source venv/bin/activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+🚀 How to Use
+Add your black & white images into the Input_images/ folder.
+
+Run the script to colorize:
+python "BW to color.py"
