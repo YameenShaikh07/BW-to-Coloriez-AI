@@ -15,7 +15,7 @@ This project uses **OpenCV** and a pre-trained **Caffe model** to automatically 
 
 ## 📂 Project Structure
 
-Installation
+ ## Installation
 # 1. Clone the repo
 git clone https://github.com/YameenShaikh07/BW-to-Coloriez-AI.git
 cd BW-to-Coloriez-AI
